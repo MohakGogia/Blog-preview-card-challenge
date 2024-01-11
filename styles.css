@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Figtree', sans-serif;
+}
+
+:root {
+    --primary-color: hsl(47, 88%, 63%);
+    --main-color: hsl(0, 0%, 7%);
+}
+
+body {
+    background-color: var(--primary-color);
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    width: 375px;
+    height: 500px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 4%;
+    border: 1.5px solid var(--main-color);
+    box-shadow: 7px 7px var(--main-color);
+}
+
+.card-image {
+    padding: 20px 20px 0 20px;
+}
+
+.article-pic {
+    width: 330px;
+    border-radius: 10px;
+}
+
+.card-metadata {
+    padding: 20px 15px 0 20px;
+}
+
+.tag {
+    height: 30px;
+    width: 80px;
+    background-color: var(--primary-color);
+    padding: 6px;
+    font-weight: 800;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.date {
+    margin-top: 15px;
+    font-size: 0.8rem;
+}
+
+.card-info {
+    height: 40%;
+    padding: 20px;
+}
+
+.info-heading {
+    height: 25%;
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+
+.info-heading:hover {
+    color: var(--primary-color);
+    cursor: pointer;
+}
+
+.info-main {
+    color: hsl(0, 0%, 50%);
+    font-size: 1rem;
+    height: 50%;
+}
+
+.info-user {
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+.user-name {
+    text-align: center;
+    margin-left: 10px;
+    font-size: 0.8rem;
+    font-weight: 800;
+}
+
+.attribution {
+    font-size: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px; 
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
