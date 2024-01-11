@@ -17,7 +17,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Live Demo](https://mohak-gogia.github.io/Blog-preview-card/)
+- Live Site URL: [Live Demo](https://mohakgogia.github.io/Blog-preview-card-challenge/)
 
 ### Used
 
