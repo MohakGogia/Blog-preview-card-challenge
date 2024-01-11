@@ -13,12 +13,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![image](https://github.com/Mohak-Gogia/Blog-preview-card/assets/91110127/a18fdfc4-438c-419d-814e-0f637241438d)
+![image](https://github.com/MohakGogia/Blog-preview-card-challenge/assets/51714505/d4bedb2f-886d-4eba-a80e-a57da65e3cd5)
 
 ### Links
 
 - Live Site URL: [Live Demo](https://mohak-gogia.github.io/Blog-preview-card/)
-
 
 ### Used
 
