@@ -7,7 +7,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Built with](#built-with)
+- [Used](#used)
 
 ## Overview
 
